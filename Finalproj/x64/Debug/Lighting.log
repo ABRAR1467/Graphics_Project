@@ -1,0 +1,167 @@
+﻿  main.cpp
+D:\Myproject\Finalproj\sylinder.h(150,24): warning C4101: 'normalX': unreferenced local variable
+D:\Myproject\Finalproj\sylinder.h(150,33): warning C4101: 'normalY': unreferenced local variable
+D:\Myproject\Finalproj\sylinder.h(150,18): warning C4101: 'y': unreferenced local variable
+D:\Myproject\Finalproj\sylinder.h(150,42): warning C4101: 'normalZ': unreferenced local variable
+D:\Myproject\Finalproj\object.h(11,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Myproject\Finalproj\object.h(11,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Myproject\Finalproj\object.h(11,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Myproject\Finalproj\movingobject.h(32,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\movingobject.h(41,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\movingobject.h(50,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\movingobject.h(61,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\movingobject.h(14,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Myproject\Finalproj\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\flyer.h(19,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(19,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(19,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(25,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(25,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(25,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(31,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(31,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(31,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(37,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(37,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(42,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(42,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(50,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(50,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(50,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(59,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(59,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(59,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(65,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(65,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(65,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(71,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(71,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(71,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(77,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(77,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(77,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(83,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(83,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(83,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(89,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(89,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(89,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\flyer.h(12,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Myproject\Finalproj\flyer.h(12,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Myproject\Finalproj\flyer.h(12,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Myproject\Finalproj\Sphere2.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\Sphere2.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\Sphere2.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\Sphere2.h(269,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\Sphere2.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\Sphere2.h(274,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\Sphere2.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\Sphere2.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\Sphere2.h(331,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\main.cpp(77,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(78,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(83,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(85,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(705,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(705,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(708,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(708,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(709,59): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(709,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(709,47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(711,52): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(712,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(948,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(949,29): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(951,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(998,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1010,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1010,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1010,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1019,58): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1019,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1027,58): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1027,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1035,58): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1035,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1043,58): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1043,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1055,58): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1055,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1061,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1072,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1072,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1072,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1085,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1085,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1085,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1091,58): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1091,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1118,23): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1158,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1158,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1164,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1164,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1164,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1151,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Myproject\Finalproj\main.cpp(1151,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Myproject\Finalproj\main.cpp(1151,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Myproject\Finalproj\main.cpp(1212,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Myproject\Finalproj\main.cpp(1212,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Myproject\Finalproj\main.cpp(1212,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Myproject\Finalproj\main.cpp(1234,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1236,21): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1247,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1247,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1253,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1253,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1253,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1240,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Myproject\Finalproj\main.cpp(1240,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Myproject\Finalproj\main.cpp(1338,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1353,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1364,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1364,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1364,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1368,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1383,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1383,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1383,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1396,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1396,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1396,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1403,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1403,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1403,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1410,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1410,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1410,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1417,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1417,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1417,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1424,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1441,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1456,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1492,47): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1493,52): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1494,34): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1499,75): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1500,75): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1505,71): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1506,71): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1507,71): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1508,71): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1509,71): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1510,71): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1514,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1521,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1528,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Myproject\Finalproj\main.cpp(1536,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\main.cpp(1541,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\main.cpp(1546,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\main.cpp(1551,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\main.cpp(1556,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Myproject\Finalproj\main.cpp(1561,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> D:\Myproject\Finalproj\x64\Debug\Lighting.exe
